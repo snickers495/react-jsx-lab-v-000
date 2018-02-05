@@ -6,7 +6,7 @@ export default class RegistrationForm extends React.Component {
       <form>
       <input type='text'/>
       <input type='password'/>
-      <input type='s' 
+      <input type='submit'/> 
       </form>
     )
   }
