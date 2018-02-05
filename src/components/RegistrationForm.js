@@ -1,3 +1,3 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-export default class RegistrationForm extendes 
+export default class RegistrationForm extends React.C
