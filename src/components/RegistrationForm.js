@@ -4,7 +4,7 @@ export default class RegistrationForm extends React.Component {
   render(){
     return(
       <form>
-      <input 
+      <input type=
       </form>
     )
   }
